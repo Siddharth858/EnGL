@@ -1,7 +1,7 @@
 
 | Lesson no. | Topic                             | Duration |
 |------------|-----------------------------------|----------|
-| lesson 1   | [How to look inside brain]        | 04:52    |
+| Lesson 1   | [How to look inside brain]        | 04:52    |
 | Lesson 2   | [Mining minerals from sea water]  | 02:53    |
 | Lesson 3   | [The Job we will lose to machine] | 04:30    |
 | Lesson 4   | [Print your own medicine]         | 02:59    |
