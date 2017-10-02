@@ -1,4 +1,4 @@
-# EnGL
+# EnGL <sub>(Beta)</sub>
 
 ## Motivation
 Listening is an important part of our communica-
