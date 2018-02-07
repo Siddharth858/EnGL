@@ -38,3 +38,15 @@ $ sudo pip install pyaudio
 ```
 ### 3 Next Step
 Download folder from this [link](https://github.com/Siddharth858/EnGL).
+
+## ScreenShots
+
+![alt text](https://github.com/Siddharth858/EnGL/blob/master/data/openscreen.png "Opening Screen")
+
+
+
+![alt text](https://github.com/Siddharth858/EnGL/blob/master/data/choose_lesson.png "Choose lesson")
+
+
+
+![alt text](https://github.com/Siddharth858/EnGL/blob/master/data/main_screen.png "Main Screen")
