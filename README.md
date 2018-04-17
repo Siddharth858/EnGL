@@ -1,8 +1,7 @@
 # EnGL <sub>(Beta)</sub>
 
 ## Motivation
-Listening is an important part of our communica-
-tion, and I always felt there is lack of good project
+Listening is an important part of our communication, and I always felt there is lack of good project
 to improve English efficiently and free. Hundreds
 of websites of websites are today online to improve
 listening skills, but the way needs to be modified,
